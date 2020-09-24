@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Its YA BOI SIMP
 Use the left arrow to go back!
